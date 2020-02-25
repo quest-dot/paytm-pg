@@ -4,7 +4,7 @@
 
 1. Clone repo 
 ```
-git clone https://github.com/quest-dot/paytm-pg
+git clone https://github.com/quest-dot/paytm-pg.git
 ```
 
 2. Install dependencies 
